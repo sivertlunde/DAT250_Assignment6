@@ -1,3 +1,6 @@
 [submodule "ReactTutorial/my-app"]
 	path = ReactTutorial/my-app
 	url = ./ReactTutorial/my-app
+[submodule "ReactTutorial"]
+	path = ReactTutorial
+	url = ../ReactTutorial/
